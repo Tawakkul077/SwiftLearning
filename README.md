@@ -1,2 +1,5 @@
 # SwiftLearning
-Learning iOS development with Swift: from basics to App Store
+
+🎓 Полный курс iOS разработки от нуля до Middle+
+
+## Структура
