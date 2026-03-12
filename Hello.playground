@@ -1,0 +1,6 @@
+import Foundation
+
+print("Начинаю изучение Swift")
+print("Дата старта: \12.03,2026")
+
+// Мой первый Playground в курсе
